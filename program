@@ -1,0 +1,2 @@
+int x=10,y=20;
+print("sum of number is : " x+y);
